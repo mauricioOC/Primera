@@ -1,0 +1,7 @@
+// JavaScript source code
+{
+    "location": "East US",
+    "properties": {
+        "clientCertEnabled": true
+    }
+}
